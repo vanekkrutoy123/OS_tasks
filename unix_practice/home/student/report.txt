@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x 2 user user 4096 Nov 20 19:25 Learning
+drwxrwxr-x 5 user user 4096 Nov 20 19:25 Python
+drwxrwxr-x 5 user user 4096 Nov 20 19:25 Website
+drwxrwxr-x 5 user user 4096 Nov 20 20:05 Website_Old
+13
